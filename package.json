@@ -1,0 +1,19 @@
+{
+  "name": "demyst_todo",
+  "version": "1.0.0",
+  "description": "testing commit.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "todo"
+  },
+  "bin": {
+    "todo": "/src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
